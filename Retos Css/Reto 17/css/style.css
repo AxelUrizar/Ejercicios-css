@@ -1,0 +1,118 @@
+.cuerpo{
+    background-image: url(../img/ac.jp);
+}
+
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.fotoa{
+    border: solid 1px black;
+    margin: 50px 100px;
+    height:200px;
+    width: 200px;
+    text-align: center;
+    background-image: url(../img/back_mantel.jpg);
+    
+}
+
+.fotob{
+    border: solid 1px black;
+    margin: 50px 100px;
+    height:200px;
+    width: 200px;
+    text-align: center;
+    
+    
+
+}
+
+.subb{
+    height: 100%;
+    width: 100%;
+    background-image: url(../img/back_mantel.jpg);
+    padding: 20px;
+    
+}
+
+.fotoc{
+    border: solid 1px black;
+    margin: 50px 100px;
+    height:200px;
+    width: 200px;
+    text-align: center;
+}
+
+.fotod{
+    border: solid 1px black;
+    margin: 50px 100px;
+    height:200px;
+    width: 200px;
+    text-align: center;
+}
+
+.fotoe{
+    border: solid 1px black;
+    margin: 50px 100px;
+    height:200px;
+    width: 200px;
+    text-align: center;
+}
+
+.fotof{
+    border: solid 1px black;
+    margin: 50px 100px;
+    height:200px;
+    width: 200px;
+    text-align: center;
+}
+
+.fotog{
+    border: solid 1px black;
+    margin: 50px 100px;
+    height:200px;
+    width: 200px;
+    text-align: center;
+}
+
+.fotoh{
+    border: solid 1px black;
+    margin: 50px 100px;
+    height:200px;
+    width: 200px;
+    text-align: center;
+}
+
+.fotoi{
+    border: solid 1px black;
+    margin: 50px 100px;
+    height:200px;
+    width: 200px;
+    text-align: center;
+}
+
+.fotoj{
+    border: solid 1px black;
+    margin: 50px 100px;
+    height:200px;
+    width: 200px;
+    text-align: center;
+}
+
+.fotok{
+    border: solid 1px black;
+    margin: 50px 100px;
+    height:200px;
+    width: 200px;
+    text-align: center;
+}
+
+.fotol{
+    border: solid 1px black;
+    margin: 50px 100px;
+    height:200px;
+    width: 200px;
+    text-align: center;
+    
+}
+

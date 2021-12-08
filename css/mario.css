@@ -1,3 +1,14 @@
-.prueba{
-    
+
+body{
+    height: 100vh;
+}
+#anterior{
+    width: 20%;
+    border-color: 5px solid magenta;
+}
+#prueva {
+    width: 60%;
+}
+#posterior{
+    width: 20%;
 }

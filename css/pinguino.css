@@ -1,19 +1,40 @@
-.pinguino{
-    background-image: url(../IMG/pinguino-rey.jpg);
+* {
+    marin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    background-image: url(https://dam.ngenespanol.com/wp-content/uploads/2020/05/pinguino-rey-770x385.jpg);
+    background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size:contain;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#pinguino{
+  width: 70%;
+}
+
+#tabla{
+    background-color: yellow;
     width: 100%;
-    height: 100%;
 }
-.tabla{
-    background-color: yellow;
-}
-.encabezado{
+#encabezado{
     background-color: white;
+    font-size: 30px;
+    width: 100%;
 }
-.celda1{
+#celdas{
     background-color: yellow;
+    
 }
-.celda2{
-    background-color: yellow;
+#celdas td{
+    width: 50%;
+    text-align: center;
+    font-size: 18px;
 }

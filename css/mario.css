@@ -10,7 +10,7 @@
      flex-direction: column;
     justify-content: space-between;
  }
-.anterior {
+#anterior {
     position: relative;
     background-color: skyblue;
     border: blue solid 3px;
@@ -74,12 +74,12 @@
     position: absolute;
     bottom: 0px;
 }
-
-#posterior {
+#post{ 
+    width: 212px;
+    height: 113px; 
     position: relative;
     background-color: skyblue;
-    border: rgb(blue solid 3px;
-    width: 212px;
-    height: 113px;
+    border: blue solid 3px;
+   
 }
 
